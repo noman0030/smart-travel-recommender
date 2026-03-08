@@ -369,31 +369,3 @@ plt.show()
 print("\nGraph save ho gaya: travel_recommender_result.png")
 
 
-# ┌─────────────────────────────────────────────┐
-# │  CELL 8 — Resume ke liye project summary   │
-# └─────────────────────────────────────────────┘
-
-print("=" * 55)
-print("RESUME MEIN YEH LIKHO:")
-print("=" * 55)
-print("""
-Project: Smart Travel Destination Recommender
-Tech   : Python, Scikit-learn, Pandas, Matplotlib
-ML     : K-Means Clustering, Cosine Similarity
-
-• Built ML-based travel recommender system
-  analyzing 30 global destinations across
-  6 key features (budget, adventure, culture,
-  beach, nightlife, safety)
-
-• Applied K-Means clustering to segment
-  destinations into 5 traveler personas
-
-• Implemented cosine similarity for
-  personalized destination recommendations
-
-• Achieved interpretable clusters with
-  clear travel type classification
-""")
-print("=" * 55)
-print("GitHub pe daalo → Portfolio ready!")
